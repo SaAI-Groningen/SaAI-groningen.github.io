@@ -11,7 +11,7 @@ layout: default
 
 Our first meeting will be on Friday, September 15th, 15:30-17:30 at the House of Connections (Grote Markt 21, Groningen).
 
-You can register using [this form](https://gossminn.eu/saai/signup_230915.php)
+You can register using [this form](https://gossminn.eu/saai/signup_230915.php). _(We have limited space, so please don't forget to register if you want to attend. Also, please let us know if you registered but can't make it, so that someone else can attend.)_
 
 ## Follow us on social media!
 * Twitter/X: [@saai_groningen](https://twitter.com/saai_groningen)
