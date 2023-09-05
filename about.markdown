@@ -32,7 +32,7 @@ I'm a PhD student in Computational Linguistics, currently in the last stages of 
 #### Greta Zella
 Contact: [RUG.nl](https://www.rug.nl/staff/g.zella/) / [LinkedIn](https://www.linkedin.com/in/greta-zella-0a71aa1b5/)
 
-<img src="img/greta-profile.jpg" alt="Greta's profile picture" width=100px />
+<img src="/img/greta-profile.jpg" alt="Greta's profile picture" width=100px />
 
 Greta is a PhD student with an inter-faculty project on the impact that the words we use can have on moral norms and social change in shifting towards sustainable lifestyles. Her research interests include NLP and cognitive linguistics.
 
@@ -40,6 +40,6 @@ Greta is a PhD student with an inter-faculty project on the impact that the word
 #### Marco Zullich
 Contact: [zullich.it](https://zullich.it/) / [LinkedIn](https://www.linkedin.com/in/marco-zullich-00559660/)
 
-<img src="img/marco-profile.png" alt="Marco's profile picture" width=100px />
+<img src="/img/marco-profile.png" alt="Marco's profile picture" width=100px />
 
 Marco is a lecturer at the Department of AI, where he teaches AI-related subjects and object-oriented programming. His research interests are machine learning model compression, and responsible and trustworthy AI. He was previously president of the Artificial Intelligence Student Society in Trieste, Italy, where he organized multiple dissemination events aimed at providing the general public with a comprehensive understanding of the various facets of AI.
