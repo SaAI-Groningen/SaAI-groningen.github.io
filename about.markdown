@@ -14,14 +14,19 @@ Given the fast developments in the world of AI and its increasing impact on soci
 Currently, there are six of us who are organizing the meetings. In alphabetical order:
 
 #### Ludi van Leeuwen
- 
+Contact: [RUG.nl](https://www.rug.nl/staff/l.s.van.leeuwen/) / [LinkedIn](https://www.linkedin.com/in/ludi-van-leeuwen-485967172/)
+
+<img src="/img/ludi-profile.jpg" alt="Ludi's profile picture" width=100px />
+
+Ludi is a PhD student at the Bernoulli Institute for Mathematics, Computing Science and Artificial Intelligence, focusing on how we should reason with (probabilistic) evidence. Main topics of interest are agent-based simulations, Bayesian Networks and Hybrid- and Responsible AI.
+
 
 #### Gosse Minnema
 Contact: [www.gossminn.eu](https://www.gossminn.eu) / [LinkedIn](https://www.linkedin.com/in/gosseminnema/)
 
 <img src="https://www.gossminn.eu/img/linkedin_profile.jpeg" alt="Gosse's profile picture" width=100px />
 
-I'm a PhD student in Computational Linguistics, currently in the last stages of finishing my thesis. I'm interested in using computational methods for studying how our language use reflects our perspectives on societal events, and making visible power inequalities in media reporting on urgent societal issues such as gender-based violence, road danger and migration.
+Gosse is a PhD student in Computational Linguistics, currently in the last stages of finishing my thesis. He is interested in using computational methods for studying how our language use reflects our perspectives on societal events, and making visible power inequalities in media reporting on urgent societal issues such as gender-based violence, road danger and migration.
 
 #### Noa Visser
 
