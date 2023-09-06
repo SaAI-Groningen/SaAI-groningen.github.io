@@ -7,7 +7,7 @@ layout: default
 
 # Welcome to SaAI!
 
-![flyer announcing the first meeting](img/first_meeting_flyer.png)
+![flyer announcing the first meeting](img/first_meeting_flyer_v2.png)
 
 ## Kick-off meeting: September 15th
 
