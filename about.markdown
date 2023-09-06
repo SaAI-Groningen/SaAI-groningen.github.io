@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# The SaAI project
 
-We are a group of PhD students and young researchers at the AI and NLP departments of the University of Groningen. 
-Given the fast developments in the world of AI and its increasing impact on society -- such as energy use and environmental consequences of large models, questions about privacy and data ownership, the role of big technology companies, to name just a few things -- we believe it is important to create a conversation about this at the university. SaAI aims to contribute to this by hosting biweekly discussion meetings and invited talks about a wide range of topics related to the present and future place of AI in society. 
-
-# The organizers
+## Who are we?
 
 Currently, there are six of us who are organizing the meetings. In alphabetical order:
 
