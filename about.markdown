@@ -26,12 +26,19 @@ Contact: [www.gossminn.eu](https://www.gossminn.eu) / [LinkedIn](https://www.lin
 
 <img src="https://www.gossminn.eu/img/linkedin_profile.jpeg" alt="Gosse's profile picture" width=100px />
 
-Gosse is a PhD student in Computational Linguistics, currently in the last stages of finishing my thesis. He is interested in using computational methods for studying how our language use reflects our perspectives on societal events, and making visible power inequalities in media reporting on urgent societal issues such as gender-based violence, road danger and migration.
+Gosse is a PhD student in Computational Linguistics, currently in the last stages of finishing his thesis. He is interested in using computational methods for studying how our language use reflects our perspectives on societal events, and making visible power inequalities in media reporting on urgent societal issues such as gender-based violence, road danger and migration.
 
 #### Noa Visser
 
 
 #### Xiao Yang
+
+Contact: [RUG.nl](https://www.rug.nl/staff/xiaoyan.yang/) / [LinkedIn](https://www.linkedin.com/in/xiaoyan-%E6%99%93%E7%87%95-yang-%E6%9D%A8-37678917b/)
+
+<img src="/img/xiaoyan-profile.jpg" alt="Xiaoyan's profile picture" width=100px />
+
+Xiaoyan is a PhD student at the Computational Linguistics group of the University of Groningen, focusing on applying network theories and LLM to the comparative study of fanfiction and digital social readings in different cultures. 
+
 
 
 #### Greta Zella
