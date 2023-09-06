@@ -29,7 +29,7 @@ Contact: [www.gossminn.eu](https://www.gossminn.eu) / [LinkedIn](https://www.lin
 Gosse is a PhD student in Computational Linguistics, currently in the last stages of finishing his thesis. He is interested in using computational methods for studying how our language use reflects our perspectives on societal events, and making visible power inequalities in media reporting on urgent societal issues such as gender-based violence, road danger and migration.
 
 #### Noa Visser
-
+Contact: [RUG.nl](https://www.rug.nl/staff/noa.visser/)
 
 #### Xiao Yang
 
