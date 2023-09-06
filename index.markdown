@@ -13,11 +13,12 @@ layout: default
 
 Our first meeting will be on Friday, September 15th, 15:30-17:30 at the House of Connections (Grote Markt 21, Groningen).
 
-You can register using [this form](https://gossminn.eu/saai/signup_230915.php). _(We have limited space, so please don't forget to register if you want to attend. Also, please let us know if you registered but can't make it, so that someone else can attend.)
+You can register using [this form](https://gossminn.eu/saai/signup_230915.php). _(We have limited space, so please don't forget to register if you want to attend. Also, please let us know if you registered but can't make it, so that someone else can attend.)_
 
 ### Abstract
 
 > **Sustainability & AI and AI for sustainability: introduction and perspectives**
+
 > Current discussions on sustainability in the context of Artificial Intelligence (AI) focus mainly on the energy consumption that models, such as neural networks, require to train and deploy: indeed, for large scale models, such as ChatGPT, the training time can amount to even months on clusters of specialized hardware—which is often also used for the deployment. This same hardware also poses sustainability issues, since its manufacturing requires a large amount of substances whose extraction or production can lead to serious cases of environmental or societal problems.
 
 > Most of the AI community is aware of these problems and there is much active work, both on the hardware and software side, to increase sustainability of their practices. Techniques such as model compression can substantially reduce the memory requirements of the AI models, by trading off little to no performance. However, the effectiveness of these technologies is still up for debate.
@@ -27,7 +28,7 @@ You can register using [this form](https://gossminn.eu/saai/signup_230915.php). 
 > In this first discussion, we are going to introduce the topic of sustainability and AI from the perspective of AI scientists currently working in the aforementioned fields. We will be introducing the main issues connected to sustainability in the field of AI and, more in general, computing, while presenting, in very broad terms, the technologies involved both in reducing the environmental impact of AI practices, and AI for sustainability.
 
 ### Discussion leaders
-<img src="/img/speakers/diego-profile.png" alt="Diego's profile picture" width=100px />
+<img src="/img/speakers/diego-profile.jpg" alt="Diego's profile picture" width=100px />
 
 **Juan Diego Cardenas-Cartagena** is a lecturer in AI at the University of Groningen. He works in reinforcement learning and signal processing. And his research interests include data-driven control and estimation algorithms for building trustworthy AI agents in safety-critical systems.
 
