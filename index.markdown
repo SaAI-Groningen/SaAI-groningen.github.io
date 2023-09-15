@@ -53,4 +53,4 @@ Starting this Autumn, we will organize biweekly open discussion meetings about c
 ## Follow us on social media!
 * Twitter/X: [@saai_groningen](https://twitter.com/saai_groningen)
 * Mastodon: [@saai_groningen@sigmoid.social](https://sigmoid.social/@saai_groningen)
-* LinkedIn: [saai-groningen](https://www.linkedin.com/company/saai-groningen/) 
+* LinkedIn: [saai-groningen](https://www.linkedin.com/company/saai-groningen/)
