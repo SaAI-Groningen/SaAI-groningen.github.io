@@ -19,7 +19,9 @@ Given the fast developments in the world of AI and its increasing impact on soci
 
 Our first meeting will be on Friday, September 15th, 15:30-17:30 at the House of Connections (Grote Markt 21, Groningen).
 
-You can register using [this form](https://gossminn.eu/saai/signup_230915.php). _(We have limited space, so please don't forget to register if you want to attend. Also, please let us know if you registered but can't make it, so that someone else can attend.)_
+Thank you for everyone who is interested in attending! Unfortunately the meeting is already fully booked. You can still register for the waiting list and/or being kept up to date for future meetings using [this form](https://gossminn.eu/saai/signup_230915.php). 
+_(Please let us know ([via email](mailto:saai-groningen@rug.nl)) if you registered but can't make it, so that someone else can attend.)_
+<!-- _(We have limited space, so please don't forget to register if you want to attend. Also, please let us know if you registered but can't make it, so that someone else can attend.)_ -->
 
 ### Abstract
 
