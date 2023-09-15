@@ -27,6 +27,10 @@ Gosse is a PhD student in Computational Linguistics, currently in the last stage
 #### Noa Visser
 Contact: [RUG.nl](https://www.rug.nl/staff/noa.visser/)
 
+<img src="/img/noa-profile.jpg" alt="Noa's profile picture" width=100px />
+
+Noa (they/them) is a PhD student at the Computational Linguistics group of the University of Groningen, working in the [GOLEM](https://golemlab.eu) project. They are focussing on the analysis of fanfiction in different cultures using NLP, in particular on the detection of literary events and the influence of society on fanfiction. 
+
 #### Xiao Yang
 
 Contact: [RUG.nl](https://www.rug.nl/staff/xiaoyan.yang/) / [LinkedIn](https://www.linkedin.com/in/xiaoyan-%E6%99%93%E7%87%95-yang-%E6%9D%A8-37678917b/)
