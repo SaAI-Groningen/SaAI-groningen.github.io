@@ -54,4 +54,4 @@ Contact: [zullich.it](https://zullich.it/) / [LinkedIn](https://www.linkedin.com
 
 <img src="/img/marco-profile.png" alt="Marco's profile picture" width=100px />
 
-Marco is a lecturer at the Department of AI, where he teaches AI-related subjects and object-oriented programming. His research interests are machine learning model compression, and responsible and trustworthy AI. He was previously president of the Artificial Intelligence Student Society in Trieste, Italy, where he organized multiple dissemination events aimed at providing the general public with a comprehensive understanding of the various facets of AI.
+Marco is a lecturer at the Department of AI, where he teaches AI-related subjects and object-oriented programming. His research interests are machine learning model compression, and responsible and trustworthy AI. He was previously president of the [Artificial Intelligence Student Society](www.ai2s.it) in Trieste, Italy, where he organized multiple dissemination events aimed at providing the general public with a comprehensive understanding of the various facets of AI.
