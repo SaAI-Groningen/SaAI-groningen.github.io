@@ -7,50 +7,34 @@ layout: default
 
 # Welcome to SaAI!
 
-![flyer announcing the first meeting](img/first_meeting_flyer_v2.png)
+![flyer announcing the second meeting](img/2nd_meeting_flyer.png)
 
-## The SaAI project
+### **Sign up [here](https://gossminn.eu/saai/signup_231103.php)!**
+
+## 2nd session: November 3rd, 2023
+
+In the upcoming session, we'll take a deeper dive into the environmental costs of LLMs: we know they consume a lot of energy (and water), but how much exactly? And do you measure this, especially with the 'new generation' of models (ChatGPT and friends) that are surrounded by a cloud of secrecy about how they actually work? The session will be led by the SaAI group members with a background in NLP (Natural Language Processing); we'll look at how the debate inside the NLP community about environmental impacts of LLMs has developed in the last few years (looking particarly at [Strubell et al. 2019](https://aclanthology.org/P19-1355/) and [Luccioni &amp; Hernandez-Garcia 2023](https://arxiv.org/abs/2302.08476)) and contextualize it inside the wider debate about the environmental costs of AI. 
+
+**The meeting will take place from 15:00-17:00 in room 1313.0125 (Collaboratorie A) in the Harmony Building (Oude Kijk in 't Jatstraat 26)**
+
+**_If you'd like to attend, please sign up using the form linked above. (We'll have a bigger room than last time so there should be space for everyone). If you have any questions, you can reach out to us [via email](mailto:saai-groningen@rug.nl)._**
+
+
+## About the SaAI project
 
 We are a group of PhD students and young researchers at the AI and NLP departments of the University of Groningen. 
 Given the fast developments in the world of AI and its increasing impact on society -- such as energy use and environmental consequences of large models, questions about privacy and data ownership, the role of big technology companies, to name just a few things -- we believe it is important to create a conversation about this at the university. SaAI aims to contribute to this by hosting biweekly discussion meetings and invited talks about a wide range of topics related to the present and future place of AI in society. 
 
 
-## Kick-off meeting: September 15th
-
-Our first meeting will be on Friday, September 15th, 15:30-17:30 at the House of Connections (Grote Markt 21, Groningen).
-
-Thank you for everyone who is interested in attending! Unfortunately the meeting is already fully booked. You can still register for the waiting list and/or being kept up to date for future meetings using [this form](https://gossminn.eu/saai/signup_230915.php). 
-_(Please let us know ([via email](mailto:saai-groningen@rug.nl)) if you registered but can't make it, so that someone else can attend.)_
-<!-- _(We have limited space, so please don't forget to register if you want to attend. Also, please let us know if you registered but can't make it, so that someone else can attend.)_ -->
-
-### Abstract
-
-> **Sustainability & AI and AI for sustainability: introduction and perspectives**
-
-> Current discussions on sustainability in the context of Artificial Intelligence (AI) focus mainly on the energy consumption that models, such as neural networks, require to train and deploy: indeed, for large scale models, such as ChatGPT, the training time can amount to even months on clusters of specialized hardware—which is often also used for the deployment. This same hardware also poses sustainability issues, since its manufacturing requires a large amount of substances whose extraction or production can lead to serious cases of environmental or societal problems.
-
-> Most of the AI community is aware of these problems and there is much active work, both on the hardware and software side, to increase sustainability of their practices. Techniques such as model compression can substantially reduce the memory requirements of the AI models, by trading off little to no performance. However, the effectiveness of these technologies is still up for debate.
-
-> On the other hand, AI can also be used as a helpful tool in decreasing the environmental impact of existing technologies, e.g., by efficiently allocating resources in cyber-physical systems using reinforcement learning paradigms. Examples of machine learning in production are found in the food industry, where models are used to decrease crop irrigation water. Also, AI agents can optimize indoor vegetable and fish growth in greenhouses.
-
-> In this first discussion, we are going to introduce the topic of sustainability and AI from the perspective of AI scientists currently working in the aforementioned fields. We will be introducing the main issues connected to sustainability in the field of AI and, more in general, computing, while presenting, in very broad terms, the technologies involved both in reducing the environmental impact of AI practices, and AI for sustainability.
-
-### Discussion leaders
-<img src="/img/speakers/diego-profile.jpg" alt="Diego's profile picture" width=100px />
-
-**Juan Diego Cardenas-Cartagena** is a lecturer in AI at the University of Groningen. He works in reinforcement learning and signal processing. And his research interests include data-driven control and estimation algorithms for building trustworthy AI agents in safety-critical systems.
-
-<img src="/img/marco-profile.png" alt="Marco's profile picture" width=100px />
-
-**Marco Zullich** is a lecturer at the University of Groningen and one of the founders of the SaAI group. He completed his PhD in 2023 at the University of Trieste (Italy), with a thesis on neural network pruning and model compression. His research interests include model compression and trustworthy AI.
-
-
-## Upcoming meetings
+<!-- ## Upcoming meetings
 Starting this Autumn, we will organize biweekly open discussion meetings about current topics around AI and its place in society, as well as invited talks that connect to the discussion meetings. Our theme for the first series of meetings is Sustainability & AI. Preliminary schedule (more information about content, and times and locations will follow very soon):
 
 * Session 1: September 15th
 * Session 2: September 29th
 * Session 3: October 6th 
+
+**[Previous sessions](/prev_sessions)** -->
+
 
 ## Follow us on social media!
 * Twitter/X: [@saai_groningen](https://twitter.com/saai_groningen)
