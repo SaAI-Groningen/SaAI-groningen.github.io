@@ -6,6 +6,15 @@ permalink: /prev_sessions/
 
 # Previous sessions
 
+## 2nd session: November 3rd, 2023
+
+In the upcoming session, we'll take a deeper dive into the environmental costs of LLMs: we know they consume a lot of energy (and water), but how much exactly? And do you measure this, especially with the 'new generation' of models (ChatGPT and friends) that are surrounded by a cloud of secrecy about how they actually work? The session will be led by the SaAI group members with a background in NLP (Natural Language Processing); we'll look at how the debate inside the NLP community about environmental impacts of LLMs has developed in the last few years (looking particarly at [Strubell et al. 2019](https://aclanthology.org/P19-1355/) and [Luccioni &amp; Hernandez-Garcia 2023](https://arxiv.org/abs/2302.08476)) and contextualize it inside the wider debate about the environmental costs of AI. 
+
+**The meeting will take place from 15:00-17:00 in room 1313.0125 (Collaboratorie A) in the Harmony Building (Oude Kijk in 't Jatstraat 26)**
+
+**_If you'd like to attend, please sign up using the form linked above. (We'll have a bigger room than last time so there should be space for everyone). If you have any questions, you can reach out to us [via email](mailto:saai-groningen@rug.nl)._**
+
+
 ## Kick-off meeting: September 15th
 
 ![flyer announcing the first meeting](img/first_meeting_flyer_v2.png)
