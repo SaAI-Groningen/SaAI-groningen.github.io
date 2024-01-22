@@ -9,7 +9,7 @@ layout: default
 
 ![flyer announcing the second meeting](img/3rd_meeting_flyer.png)
 
-### **Sign up [here](https://gossminn.eu/saai/signup_240129.php)!**
+### **Sign up [here](https://gossminn.eu/saai/signup_240129.php) for in-person attendance!**
 
 ## 3rd session: January 29th, 2024
 
@@ -48,9 +48,11 @@ society. Our panelists will defend a range of views that are more or less in
 favour of “stochastic parrots” arguments, and with a background in different
 fields: AI, computational linguistics, and (digital) humanities.
 
-**The meeting will take place from 16:00-18:00 in room 5159.0062 (Zernike Campus, Energy Academy)**
+**The panel will take place from 16:00-18:00 in room 5159.0062 (Zernike Campus, Energy Academy)**
 
-**_If you'd like to attend, please sign up using the form linked above. (We'll have a bigger room than last time so there should be space for everyone). If you have any questions, you can reach out to us [via email](mailto:saai-groningen@rug.nl)._**
+**Link for online attendance: https://bluejeans.com/534830875/0770**
+
+**_If you'd like to attend <ins>in-person</ins>, please sign up using the form linked above. (We'll have a bigger room than last time so there should be space for everyone). If you have any questions, you can reach out to us [via email](mailto:saai-groningen@rug.nl)._**
 
 
 ## About the SaAI project
