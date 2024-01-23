@@ -50,7 +50,7 @@ fields: AI, computational linguistics, and (digital) humanities.
 
 **The panel will take place from 16:00-18:00 in room 5159.0062 (Zernike Campus, Energy Academy)**
 
-**Link for online attendance: https://bluejeans.com/534830875/0770**
+**Link for online attendance: [https://bluejeans.com/534830875/0770](https://bluejeans.com/534830875/0770)**
 
 **_If you'd like to attend <ins>in-person</ins>, please sign up using the form linked above. (We'll have a bigger room than last time so there should be space for everyone). If you have any questions, you can reach out to us [via email](mailto:saai-groningen@rug.nl)._**
 
