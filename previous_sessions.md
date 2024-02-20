@@ -6,6 +6,46 @@ permalink: /prev_sessions/
 
 # Previous sessions
 
+## 3rd session: January 29th, 2024
+### _Are GPT-4 & friends too big? Reflecting on 3 years of “stochastic parrots”_
+
+In this panel discussion event - open and accessible for everyone interested in AI
+& Society, no technical background needed - we will discuss the legacy of a
+[2021 paper](https://dl.acm.org/doi/10.1145/3442188.3445922) which was both influential and controversial (resulting in one of
+the authors getting fired from Google!).
+
+The term “stochastic parrot” has since become synonymous with the point of view
+that large language models (including the current generation of ChatGPT/GPT-4,
+Bard, Claude, LLAMA 2, and others) are inherently problematic: do they really “learn
+something”, or do they seem to do so because of the complexity of the
+statistical patterns they can recognize and reproduce?
+
+In addition, these models are trained with large amounts of data, and a lot of computational
+power is needed both for training and running these models: this causes
+unsolvable problems such as environmental pollution (from energy use) and
+social biases acquired from sets of training data that are too large to check
+and curate the contents of.
+
+The authors of the “stochastic parrots” paper have since become activists
+arguing that for these reasons, the use of large language models should be
+avoided or at least seriously limited. This stands in contrast to the view
+that, while “stochastic parrots” raised important challenges, the benefits of
+large language models still outweigh the downsides, and that the paper and its
+authors both underestimate the impressiveness of current models and
+overestimate their risks.
+
+Now, several years after the publication of “stochastic parrots”, we take a
+look at how both large language models themselves and the debates around them
+have evolved in the last few years, in which AI and Natural Language Processing
+have increasingly become hot topics, in science but also in politics and
+society. Our panelists will defend a range of views that are more or less in
+favour of “stochastic parrots” arguments, and with a background in different
+fields: AI, computational linguistics, and (digital) humanities.
+
+**The meeting will take place from 16:00-18:00 in room 5159.0062 (Zernike Campus, Energy Academy)**
+
+
+
 ## 2nd session: November 3rd, 2023
 
 In the upcoming session, we'll take a deeper dive into the environmental costs of LLMs: we know they consume a lot of energy (and water), but how much exactly? And do you measure this, especially with the 'new generation' of models (ChatGPT and friends) that are surrounded by a cloud of secrecy about how they actually work? The session will be led by the SaAI group members with a background in NLP (Natural Language Processing); we'll look at how the debate inside the NLP community about environmental impacts of LLMs has developed in the last few years (looking particarly at [Strubell et al. 2019](https://aclanthology.org/P19-1355/) and [Luccioni &amp; Hernandez-Garcia 2023](https://arxiv.org/abs/2302.08476)) and contextualize it inside the wider debate about the environmental costs of AI. 
