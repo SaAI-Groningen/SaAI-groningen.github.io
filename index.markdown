@@ -10,7 +10,8 @@ layout: default
 ![flyer announcing the 4th meeting](img/4th_meeting_flyer.png)
 
 ## 4th session: February 26th, 2024
-### **Sign up [here](https://gossminn.eu/saai/signup_240226.php)!**
+### **Sign up [here] for in-person attendance (https://gossminn.eu/saai/signup_240226.php)!**
+### **Link for joining remotely: [https://bluejeans.com/885237278/5886](https://bluejeans.com/885237278/5886)**
 
 ### AI and Warfare: Would You Use AI in Armed Conflict?
 
@@ -25,6 +26,7 @@ from a multidisciplinary background.
 **The meeting will take place from 14:00-16:00 in the House of Connections, Grote Markt, Groningen. Coffee and tea will be served :)**
 
 **_If you'd like to attend, please sign up using the form linked above. (We'll have a big room so there should be space for everyone). If you have any questions, you can reach out to us [via email](mailto:saai-groningen@rug.nl)._**
+**_For remote attendance, use [this link](https://bluejeans.com/885237278/5886)_**
 
 
 ## About the SaAI project
