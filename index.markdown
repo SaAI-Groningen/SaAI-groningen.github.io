@@ -7,7 +7,7 @@ layout: default
 
 # Welcome to SaAI!
 
-![flyer announcing the 4th meeting](img/4th_meeting_flyer.png)
+![flyer announcing the 4th meeting](img/4th_meeting_flyer.v2.png)
 
 ## 4th session: February 26th, 2024
 ### **Sign up [here](https://gossminn.eu/saai/signup_240226.php)!**
